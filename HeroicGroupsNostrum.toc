@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Heroic Groups NostrumWow by Mattmatt
+## Notes: Listening to World chat so far.
+## Author: Mattmatt
+## Version: 1.0
+
+HeroicGroupsNostrum.lua
